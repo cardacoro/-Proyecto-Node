@@ -1,0 +1,20 @@
+{
+  "name": "-proyecto-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardacoro/-Proyecto-Node.git"
+  },
+  "author": "Carlos Coronado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardacoro/-Proyecto-Node/issues"
+  },
+  "homepage": "https://github.com/cardacoro/-Proyecto-Node#readme"
+}
